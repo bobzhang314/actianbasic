@@ -1,0 +1,5 @@
+1) After installation complete:
+setup II_SYSTEM varaible
+add bin and utility of Actian to PATH
+2) After generate data, make sure that the generated data can be read by user actian
+
